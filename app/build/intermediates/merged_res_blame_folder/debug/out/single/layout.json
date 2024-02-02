@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Text Classification App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Text Classification App\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Text Classification App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_classification.xml",
+        "source": "C:\\Text Classification App\\app\\src\\main\\res\\layout\\item_classification.xml"
+    },
+    {
+        "merged": "C:\\Text Classification App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\info_bottom_sheet.xml",
+        "source": "C:\\Text Classification App\\app\\src\\main\\res\\layout\\info_bottom_sheet.xml"
+    }
+]
